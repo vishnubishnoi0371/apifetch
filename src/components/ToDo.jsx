@@ -10,7 +10,7 @@ const ToDo = () => {
     }
   };
   return (
-    <div className="container d-flex flex-col j_center items-center mx-auto pt-6">
+    <div className="container d-flex flex-col pt-100!q j_center items-center mx-auto pt-6">
       <h1>Todo</h1>
       <form onSubmit={submit}>
         <input

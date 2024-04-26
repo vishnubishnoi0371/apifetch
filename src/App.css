@@ -76,10 +76,22 @@
   outline: unset !important;
   padding: 5px 10px;
 }
+.main_btn:hover {
+  border: 2px solid white !important;
+}
+.text-center {
+  text-align: center !important;
+}
+.picker {
+  padding: 10px 20px 10px 20px !important;
+}
 .main_btn {
   border: 2px solid black;
   border-radius: 5px;
   padding: 5px 10px;
   color: white;
   background: black;
+}
+.pt-100 {
+  padding-top: 100px;
 }
